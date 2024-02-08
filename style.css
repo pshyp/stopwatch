@@ -1,0 +1,53 @@
+.startstop {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.reset {
+    background-color: #f44336;
+    /* Red */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.container{
+    border: black solid 3px;
+   
+    margin:15%;
+    padding:5%;
+    display:flexbox;
+    flex-direction: column;
+    align-items: center;
+    display: inline-flex;
+    border-radius: 15px;
+}
+.timer{
+    font-size:10vh;
+            font-family: "Rubik Broken Fax", system-ui;
+            font-weight: 400;
+            font-style: normal;
+    
+}
+span{
+   height: 5px;
+   width:25px;
+ 
+
+
+
+}
+button{
+    border: black solid 0px;
+        border-radius: 15px;
+}
